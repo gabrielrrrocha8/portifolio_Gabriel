@@ -1,5 +1,5 @@
 export const perfil = {
-    nome: "Gabriel de Jesus Rocha",
+    nome: "Gabriel Rocha",
     usuario: "Gabriel",
     cargo: "Estudante",
     cidade: "Cruz das Almas",
